@@ -2,13 +2,13 @@
 
 Lunar Environment, Volatiles Assessment & Numerical Analysis
 
-**Website:** https://levana-center.github.io/
+Website: https://levana-center.github.io/
 
-## Editing the website
+## Editing
 
-Edit `index.html` directly on GitHub and commit to `main`. GitHub Pages automatically publishes the root folder of that branch. The homepage contains its own CSS, lunar image, and favicon; no build step or JavaScript dependencies are required.
+Edit `index.html` directly on GitHub and commit to `main`. GitHub Pages serves the root folder of that branch. The full-Moon hero is stored as `moon.jpg`; the favicon and Israel Space Agency logo are stored locally. There is no build step or JavaScript dependency.
 
-The site includes an overview, expandable research themes, institutional links, and a repository link. Team biographies, publications, and contact information can be added when approved content is available.
+The site includes an overview, center-lead profiles, expandable research themes, lunar publication lists, a bilingual press release, WIS opportunities, institutional links, and a prominent Israel Space Agency support statement.
 
 ## Local preview
 
@@ -16,8 +16,13 @@ Run `python3 -m http.server 8000` in this directory, then open http://localhost:
 
 ## Image credit
 
-Lunar visualization: NASA’s Scientific Visualization Studio, using Lunar Reconnaissance Orbiter data.
+`moon.jpg` is a global Moon view from NASA Lunar Reconnaissance Orbiter imagery. `levana-lro-psr-hero.png` is retained as an alternate cover asset; its blue areas represent mapped permanent shadow and potential cold traps, not direct detections of water ice.
 
-Source: https://svs.gsfc.nasa.gov/5415/
+Global texture: https://svs.gsfc.nasa.gov/4720/
+
+PSR map and interpretation: https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/
 
 NASA imagery does not imply NASA endorsement of this center or website.
+
+The included `israel-space-agency-logo.jpg` is the local website copy of the Israel Space Agency logo. Leader portraits were prepared as transparent cutouts from official profile images.
+Source: https://www.space.gov.il/
