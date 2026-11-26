@@ -2,7 +2,7 @@
 
 Lunar Environment, Volatiles Assessment & Numerical Analysis
 
-**Website:** https://odedaha.github.io/levana-center/
+**Website:** https://levana-center.github.io/
 
 ## Editing the website
 
