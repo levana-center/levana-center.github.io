@@ -1,6 +1,6 @@
 # WIS–TAU LEVANA Center
 
-Lunar Environment, Volatiles Assessment & Numerical Analysis
+Lunar Environment and Volatiles: Abundance, Nature & Accessibility
 
 Website: https://levana-center.github.io/
 
