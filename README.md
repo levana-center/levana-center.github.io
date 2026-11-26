@@ -1,4 +1,4 @@
-# WIS–TAU LEVANA Center
+# WIS–TAU LEVANA Lunar Science Node
 
 Lunar Environment and Volatiles: Abundance, Nature & Accessibility
 
@@ -8,7 +8,7 @@ Website: https://levana-center.github.io/
 
 Edit `index.html` directly on GitHub and commit to `main`. GitHub Pages serves the root folder of that branch. The full-Moon hero is stored as `moon.jpg`; the favicon and Israel Space Agency logo are stored locally. There is no build step or JavaScript dependency.
 
-The site includes an overview, center-lead profiles, expandable research themes, lunar publication lists, a bilingual press release, WIS opportunities, institutional links, and a prominent Israel Space Agency support statement.
+The site includes an overview, node-lead profiles, expandable research themes, lunar publication lists, a bilingual press release, WIS opportunities, institutional links, and a prominent Israel Space Agency support statement.
 
 ## Local preview
 
@@ -22,7 +22,7 @@ Global texture: https://svs.gsfc.nasa.gov/4720/
 
 PSR map and interpretation: https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/
 
-NASA imagery does not imply NASA endorsement of this center or website.
+NASA imagery does not imply NASA endorsement of this node or website.
 
 The included `israel-space-agency-logo.jpg` is the local website copy of the Israel Space Agency logo. Leader portraits were prepared as transparent cutouts from official profile images.
 Source: https://www.space.gov.il/

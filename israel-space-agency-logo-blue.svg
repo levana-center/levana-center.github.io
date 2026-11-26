@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="0 0 450 450" role="img" aria-label="Israel Space Agency logo">
+  <defs>
+    <filter id="logo-blue" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="0 0 0 0 0.662745  0 0 0 0 0.788235  0 0 0 0 1  -0.2126 -0.7152 -0.0722 0 1"/>
+    </filter>
+  </defs>
+  <image href="israel-space-agency-logo.jpg" width="450" height="450" filter="url(#logo-blue)"/>
+</svg>
